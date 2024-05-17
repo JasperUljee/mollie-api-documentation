@@ -44,6 +44,7 @@ methods:
 * `Bancontact <https://www.mollie.com/payments/bancontact>`_
 * `Bank transfer <https://www.mollie.com/payments/bank-transfer>`_
 * `Belfius Pay Button <https://www.mollie.com/payments/belfius>`_
+* `Blik <https://www.mollie.com/payments/blik>`_
 * `Card payments <https://www.mollie.com/payments/credit-card>`_ (VISA, Mastercard, American Express, debit cards, etc.)
 * `EPS <https://www.mollie.com/payments/eps>`_
 * `Gift cards <https://www.mollie.com/payments/gift-cards>`_ (Webshop Giftcard, Podium Cadeaukaart, VVV Cadeaukaart,

@@ -80,6 +80,7 @@ Expiry times per payment method
 +-------------------------------+-----------------------------------+
 | - Bancontact                  | 1 hour                            |
 | - Belfius Pay Button          |                                   |
+| - Blik                        |                                   |
 | - EPS                         |                                   |
 | - KBC                         |                                   |
 | - Przelewy24                  |                                   |
